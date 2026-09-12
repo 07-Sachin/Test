@@ -1,6 +1,10 @@
 secound_file
 efdsvdfvd fvfds
+<<<<<<< HEAD
 gbrfbf
 adsad
 hgcghf
 fgfg
+=======
+//edited code
+>>>>>>> 31491c63bf1978f29fb622ae40606754d9fb9bdd
